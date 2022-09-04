@@ -1,0 +1,22 @@
+{
+  "name": "form-validation",
+  "version": "1.0.0",
+  "description": "FormValidation, the best validation library for JavaScript",
+  "main": "/src/js/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamadtsn/form-validation.git"
+  },
+  "keywords": [
+    "Form-Validation"
+  ],
+  "author": "formvalidation.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamadtsn/form-validation/issues"
+  },
+  "homepage": "https://github.com/mohamadtsn/form-validation#readme"
+}
