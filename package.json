@@ -1,5 +1,5 @@
 {
-  "name": "form-validation",
+  "name": "@mohamadtsn/form-validation",
   "version": "1.0.0",
   "description": "FormValidation, the best validation library for JavaScript",
   "main": "/src/js/index.ts",
